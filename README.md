@@ -15,7 +15,7 @@ contendo:
   - uma justificativa para cada tomada de decisão feita por você
 
 ## Requisitos para o desafio
-- A aplicação tem que ser feita usando a biblioteca [React](https://react.dev)
+- O frontend da aplicação deve ser desenvolvido usando [React](https://react.dev), e o backend com [Node](https://nodejs.org/en). Será considerado um diferencial o uso de arquitetura serverless.
 - Você tem liberdade para definir o escopo funcional, arquitetura e experiência de uso. O importante é entregar um produto funcional, minimamente viável (MVP), com boas práticas de desenvolvimento fullstack
 - Você pode (e é incentivado a) adicionar regras de negócio que considerar pertinentes para tornar o sistema mais realista ou interessante. O que importa é que suas decisões estejam bem documentadas e façam sentido dentro da proposta do projeto.
 - A aplicação deve ter um design responsivo
